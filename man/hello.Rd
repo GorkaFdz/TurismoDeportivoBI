@@ -1,12 +1,12 @@
-\name{hello}
+\name{run}
 \alias{hello}
 \title{Hello, World!}
 \usage{
-hello()
+run()
 }
 \description{
 Prints 'Hello, world!'.
 }
 \examples{
-hello()
+run()
 }

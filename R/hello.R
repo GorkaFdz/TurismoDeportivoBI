@@ -13,8 +13,7 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-hello <- function() {
-  print("skfalsjflasjfñasjfñasjfñ")
+run <- function() {
   dir = system.file("app", package = "turismo")
   runApp(dir)
 }
