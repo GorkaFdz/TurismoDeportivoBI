@@ -14,5 +14,6 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
+  print("skfalsjflasjfñasjfñasjfñ")
   runApp("inst/app")
 }
