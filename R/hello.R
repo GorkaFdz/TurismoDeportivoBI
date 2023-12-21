@@ -15,5 +15,6 @@
 
 hello <- function() {
   print("skfalsjflasjfñasjfñasjfñ")
-  runApp("inst/app")
+  dir = system.file("app", package = "turismo")
+  runApp(dir)
 }
