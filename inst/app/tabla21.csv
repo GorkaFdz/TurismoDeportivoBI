@@ -1,0 +1,433 @@
+fecha,cantidad,nombre,tipo_inversion
+2023-10-30,12133,Barakaldo,Eventos
+2023-09-30,6855,Barakaldo,Eventos
+2023-08-30,6504,Barakaldo,Eventos
+2023-07-30,7073,Barakaldo,Eventos
+2023-06-30,10005,Barakaldo,Eventos
+2023-05-30,9951,Barakaldo,Eventos
+2023-04-30,6948,Barakaldo,Eventos
+2023-03-30,8425,Barakaldo,Eventos
+2023-02-28,5239,Barakaldo,Eventos
+2023-01-30,14768,Barakaldo,Eventos
+2022-12-30,5631,Barakaldo,Eventos
+2022-11-30,13163,Barakaldo,Eventos
+2022-10-30,8537,Barakaldo,Eventos
+2022-09-30,13593,Barakaldo,Eventos
+2022-08-30,5783,Barakaldo,Eventos
+2022-07-30,12382,Barakaldo,Eventos
+2022-06-30,9580,Barakaldo,Eventos
+2022-05-30,6443,Barakaldo,Eventos
+2022-04-30,6722,Barakaldo,Eventos
+2022-03-30,14458,Barakaldo,Eventos
+2022-02-28,9427,Barakaldo,Eventos
+2022-01-30,5733,Barakaldo,Eventos
+2021-12-30,8397,Barakaldo,Eventos
+2021-11-30,6593,Barakaldo,Eventos
+2021-10-30,9042,Barakaldo,Eventos
+2021-09-30,6219,Barakaldo,Eventos
+2021-08-30,9491,Barakaldo,Eventos
+2021-07-30,10267,Barakaldo,Eventos
+2021-06-30,14161,Barakaldo,Eventos
+2021-05-30,14701,Barakaldo,Eventos
+2021-04-30,14995,Barakaldo,Eventos
+2021-03-30,5301,Barakaldo,Eventos
+2021-02-28,7870,Barakaldo,Eventos
+2021-01-30,8076,Barakaldo,Eventos
+2020-12-30,13528,Barakaldo,Eventos
+2020-11-30,14408,Barakaldo,Eventos
+2023-10-30,11070,Barakaldo,Instalaciones
+2023-09-30,10375,Barakaldo,Instalaciones
+2023-08-30,7361,Barakaldo,Instalaciones
+2023-07-30,12038,Barakaldo,Instalaciones
+2023-06-30,6891,Barakaldo,Instalaciones
+2023-05-30,12836,Barakaldo,Instalaciones
+2023-04-30,14096,Barakaldo,Instalaciones
+2023-03-30,9051,Barakaldo,Instalaciones
+2023-02-28,9318,Barakaldo,Instalaciones
+2023-01-30,12727,Barakaldo,Instalaciones
+2022-12-30,10873,Barakaldo,Instalaciones
+2022-11-30,13816,Barakaldo,Instalaciones
+2022-10-30,13520,Barakaldo,Instalaciones
+2022-09-30,8934,Barakaldo,Instalaciones
+2022-08-30,12744,Barakaldo,Instalaciones
+2022-07-30,13478,Barakaldo,Instalaciones
+2022-06-30,7195,Barakaldo,Instalaciones
+2022-05-30,6268,Barakaldo,Instalaciones
+2022-04-30,11821,Barakaldo,Instalaciones
+2022-03-30,8380,Barakaldo,Instalaciones
+2022-02-28,8698,Barakaldo,Instalaciones
+2022-01-30,7497,Barakaldo,Instalaciones
+2021-12-30,13750,Barakaldo,Instalaciones
+2021-11-30,12299,Barakaldo,Instalaciones
+2021-10-30,10578,Barakaldo,Instalaciones
+2021-09-30,7234,Barakaldo,Instalaciones
+2021-08-30,11137,Barakaldo,Instalaciones
+2021-07-30,9837,Barakaldo,Instalaciones
+2021-06-30,11970,Barakaldo,Instalaciones
+2021-05-30,5687,Barakaldo,Instalaciones
+2021-04-30,8305,Barakaldo,Instalaciones
+2021-03-30,5894,Barakaldo,Instalaciones
+2021-02-28,11926,Barakaldo,Instalaciones
+2021-01-30,11817,Barakaldo,Instalaciones
+2020-12-30,9249,Barakaldo,Instalaciones
+2020-11-30,5784,Barakaldo,Instalaciones
+2023-10-30,9260,Barakaldo,Promocion turismo deportivo
+2023-09-30,14443,Barakaldo,Promocion turismo deportivo
+2023-08-30,7148,Barakaldo,Promocion turismo deportivo
+2023-07-30,5678,Barakaldo,Promocion turismo deportivo
+2023-06-30,14917,Barakaldo,Promocion turismo deportivo
+2023-05-30,9220,Barakaldo,Promocion turismo deportivo
+2023-04-30,13196,Barakaldo,Promocion turismo deportivo
+2023-03-30,13399,Barakaldo,Promocion turismo deportivo
+2023-02-28,6610,Barakaldo,Promocion turismo deportivo
+2023-01-30,8114,Barakaldo,Promocion turismo deportivo
+2022-12-30,8929,Barakaldo,Promocion turismo deportivo
+2022-11-30,8160,Barakaldo,Promocion turismo deportivo
+2022-10-30,14950,Barakaldo,Promocion turismo deportivo
+2022-09-30,12950,Barakaldo,Promocion turismo deportivo
+2022-08-30,6357,Barakaldo,Promocion turismo deportivo
+2022-07-30,12862,Barakaldo,Promocion turismo deportivo
+2022-06-30,7117,Barakaldo,Promocion turismo deportivo
+2022-05-30,13788,Barakaldo,Promocion turismo deportivo
+2022-04-30,5922,Barakaldo,Promocion turismo deportivo
+2022-03-30,14714,Barakaldo,Promocion turismo deportivo
+2022-02-28,11108,Barakaldo,Promocion turismo deportivo
+2022-01-30,7367,Barakaldo,Promocion turismo deportivo
+2021-12-30,13199,Barakaldo,Promocion turismo deportivo
+2021-11-30,13951,Barakaldo,Promocion turismo deportivo
+2021-10-30,7630,Barakaldo,Promocion turismo deportivo
+2021-09-30,7588,Barakaldo,Promocion turismo deportivo
+2021-08-30,10979,Barakaldo,Promocion turismo deportivo
+2021-07-30,8461,Barakaldo,Promocion turismo deportivo
+2021-06-30,10922,Barakaldo,Promocion turismo deportivo
+2021-05-30,14227,Barakaldo,Promocion turismo deportivo
+2021-04-30,6291,Barakaldo,Promocion turismo deportivo
+2021-03-30,5687,Barakaldo,Promocion turismo deportivo
+2021-02-28,6377,Barakaldo,Promocion turismo deportivo
+2021-01-30,13651,Barakaldo,Promocion turismo deportivo
+2020-12-30,9549,Barakaldo,Promocion turismo deportivo
+2020-11-30,5746,Barakaldo,Promocion turismo deportivo
+2023-10-30,5269,Bilbao,Eventos
+2023-09-30,5719,Bilbao,Eventos
+2023-08-30,10515,Bilbao,Eventos
+2023-07-30,9493,Bilbao,Eventos
+2023-06-30,12618,Bilbao,Eventos
+2023-05-30,9084,Bilbao,Eventos
+2023-04-30,8471,Bilbao,Eventos
+2023-03-30,7322,Bilbao,Eventos
+2023-02-28,7105,Bilbao,Eventos
+2023-01-30,6336,Bilbao,Eventos
+2022-12-30,9859,Bilbao,Eventos
+2022-11-30,13504,Bilbao,Eventos
+2022-10-30,14688,Bilbao,Eventos
+2022-09-30,14804,Bilbao,Eventos
+2022-08-30,8841,Bilbao,Eventos
+2022-07-30,13520,Bilbao,Eventos
+2022-06-30,14357,Bilbao,Eventos
+2022-05-30,5796,Bilbao,Eventos
+2022-04-30,5495,Bilbao,Eventos
+2022-03-30,9370,Bilbao,Eventos
+2022-02-28,13314,Bilbao,Eventos
+2022-01-30,7811,Bilbao,Eventos
+2021-12-30,13727,Bilbao,Eventos
+2021-11-30,8458,Bilbao,Eventos
+2021-10-30,14286,Bilbao,Eventos
+2021-09-30,9206,Bilbao,Eventos
+2021-08-30,9917,Bilbao,Eventos
+2021-07-30,13189,Bilbao,Eventos
+2021-06-30,13003,Bilbao,Eventos
+2021-05-30,5219,Bilbao,Eventos
+2021-04-30,12750,Bilbao,Eventos
+2021-03-30,10652,Bilbao,Eventos
+2021-02-28,13891,Bilbao,Eventos
+2021-01-30,8651,Bilbao,Eventos
+2020-12-30,10870,Bilbao,Eventos
+2020-11-30,9046,Bilbao,Eventos
+2023-10-30,5435,Bilbao,Instalaciones
+2023-09-30,14139,Bilbao,Instalaciones
+2023-08-30,14635,Bilbao,Instalaciones
+2023-07-30,11258,Bilbao,Instalaciones
+2023-06-30,8512,Bilbao,Instalaciones
+2023-05-30,12508,Bilbao,Instalaciones
+2023-04-30,10487,Bilbao,Instalaciones
+2023-03-30,7042,Bilbao,Instalaciones
+2023-02-28,5322,Bilbao,Instalaciones
+2023-01-30,14389,Bilbao,Instalaciones
+2022-12-30,5704,Bilbao,Instalaciones
+2022-11-30,6629,Bilbao,Instalaciones
+2022-10-30,8707,Bilbao,Instalaciones
+2022-09-30,14881,Bilbao,Instalaciones
+2022-08-30,9627,Bilbao,Instalaciones
+2022-07-30,7679,Bilbao,Instalaciones
+2022-06-30,10990,Bilbao,Instalaciones
+2022-05-30,12916,Bilbao,Instalaciones
+2022-04-30,6999,Bilbao,Instalaciones
+2022-03-30,8861,Bilbao,Instalaciones
+2022-02-28,13673,Bilbao,Instalaciones
+2022-01-30,7805,Bilbao,Instalaciones
+2021-12-30,14736,Bilbao,Instalaciones
+2021-11-30,10977,Bilbao,Instalaciones
+2021-10-30,9052,Bilbao,Instalaciones
+2021-09-30,9809,Bilbao,Instalaciones
+2021-08-30,5214,Bilbao,Instalaciones
+2021-07-30,6565,Bilbao,Instalaciones
+2021-06-30,8014,Bilbao,Instalaciones
+2021-05-30,13097,Bilbao,Instalaciones
+2021-04-30,14733,Bilbao,Instalaciones
+2021-03-30,11821,Bilbao,Instalaciones
+2021-02-28,14990,Bilbao,Instalaciones
+2021-01-30,5833,Bilbao,Instalaciones
+2020-12-30,12955,Bilbao,Instalaciones
+2020-11-30,8254,Bilbao,Instalaciones
+2023-10-30,7492,Bilbao,Promocion turismo deportivo
+2023-09-30,9092,Bilbao,Promocion turismo deportivo
+2023-08-30,8398,Bilbao,Promocion turismo deportivo
+2023-07-30,12680,Bilbao,Promocion turismo deportivo
+2023-06-30,9176,Bilbao,Promocion turismo deportivo
+2023-05-30,10507,Bilbao,Promocion turismo deportivo
+2023-04-30,11968,Bilbao,Promocion turismo deportivo
+2023-03-30,12382,Bilbao,Promocion turismo deportivo
+2023-02-28,8562,Bilbao,Promocion turismo deportivo
+2023-01-30,9862,Bilbao,Promocion turismo deportivo
+2022-12-30,8533,Bilbao,Promocion turismo deportivo
+2022-11-30,11054,Bilbao,Promocion turismo deportivo
+2022-10-30,10976,Bilbao,Promocion turismo deportivo
+2022-09-30,7963,Bilbao,Promocion turismo deportivo
+2022-08-30,8927,Bilbao,Promocion turismo deportivo
+2022-07-30,11354,Bilbao,Promocion turismo deportivo
+2022-06-30,5933,Bilbao,Promocion turismo deportivo
+2022-05-30,11009,Bilbao,Promocion turismo deportivo
+2022-04-30,7751,Bilbao,Promocion turismo deportivo
+2022-03-30,11809,Bilbao,Promocion turismo deportivo
+2022-02-28,11867,Bilbao,Promocion turismo deportivo
+2022-01-30,14998,Bilbao,Promocion turismo deportivo
+2021-12-30,7142,Bilbao,Promocion turismo deportivo
+2021-11-30,11643,Bilbao,Promocion turismo deportivo
+2021-10-30,12191,Bilbao,Promocion turismo deportivo
+2021-09-30,6605,Bilbao,Promocion turismo deportivo
+2021-08-30,12202,Bilbao,Promocion turismo deportivo
+2021-07-30,13888,Bilbao,Promocion turismo deportivo
+2021-06-30,12273,Bilbao,Promocion turismo deportivo
+2021-05-30,12103,Bilbao,Promocion turismo deportivo
+2021-04-30,9101,Bilbao,Promocion turismo deportivo
+2021-03-30,8498,Bilbao,Promocion turismo deportivo
+2021-02-28,13596,Bilbao,Promocion turismo deportivo
+2021-01-30,6461,Bilbao,Promocion turismo deportivo
+2020-12-30,13740,Bilbao,Promocion turismo deportivo
+2020-11-30,6799,Bilbao,Promocion turismo deportivo
+2023-10-30,5732,Alcobendas,Eventos
+2023-09-30,13545,Alcobendas,Eventos
+2023-08-30,14160,Alcobendas,Eventos
+2023-07-30,11700,Alcobendas,Eventos
+2023-06-30,6569,Alcobendas,Eventos
+2023-05-30,11521,Alcobendas,Eventos
+2023-04-30,8078,Alcobendas,Eventos
+2023-03-30,14750,Alcobendas,Eventos
+2023-02-28,8386,Alcobendas,Eventos
+2023-01-30,7055,Alcobendas,Eventos
+2022-12-30,12894,Alcobendas,Eventos
+2022-11-30,8306,Alcobendas,Eventos
+2022-10-30,10110,Alcobendas,Eventos
+2022-09-30,7918,Alcobendas,Eventos
+2022-08-30,6366,Alcobendas,Eventos
+2022-07-30,5352,Alcobendas,Eventos
+2022-06-30,11345,Alcobendas,Eventos
+2022-05-30,7121,Alcobendas,Eventos
+2022-04-30,14616,Alcobendas,Eventos
+2022-03-30,9379,Alcobendas,Eventos
+2022-02-28,10385,Alcobendas,Eventos
+2022-01-30,6957,Alcobendas,Eventos
+2021-12-30,10240,Alcobendas,Eventos
+2021-11-30,5364,Alcobendas,Eventos
+2021-10-30,8456,Alcobendas,Eventos
+2021-09-30,8478,Alcobendas,Eventos
+2021-08-30,7400,Alcobendas,Eventos
+2021-07-30,10357,Alcobendas,Eventos
+2021-06-30,5087,Alcobendas,Eventos
+2021-05-30,9147,Alcobendas,Eventos
+2021-04-30,5919,Alcobendas,Eventos
+2021-03-30,8173,Alcobendas,Eventos
+2021-02-28,12221,Alcobendas,Eventos
+2021-01-30,7937,Alcobendas,Eventos
+2020-12-30,10602,Alcobendas,Eventos
+2020-11-30,8875,Alcobendas,Eventos
+2023-10-30,6815,Alcobendas,Instalaciones
+2023-09-30,5300,Alcobendas,Instalaciones
+2023-08-30,11183,Alcobendas,Instalaciones
+2023-07-30,6358,Alcobendas,Instalaciones
+2023-06-30,6178,Alcobendas,Instalaciones
+2023-05-30,13446,Alcobendas,Instalaciones
+2023-04-30,8272,Alcobendas,Instalaciones
+2023-03-30,9614,Alcobendas,Instalaciones
+2023-02-28,6663,Alcobendas,Instalaciones
+2023-01-30,6631,Alcobendas,Instalaciones
+2022-12-30,10179,Alcobendas,Instalaciones
+2022-11-30,8028,Alcobendas,Instalaciones
+2022-10-30,12918,Alcobendas,Instalaciones
+2022-09-30,8934,Alcobendas,Instalaciones
+2022-08-30,8156,Alcobendas,Instalaciones
+2022-07-30,13076,Alcobendas,Instalaciones
+2022-06-30,11524,Alcobendas,Instalaciones
+2022-05-30,8874,Alcobendas,Instalaciones
+2022-04-30,14938,Alcobendas,Instalaciones
+2022-03-30,7420,Alcobendas,Instalaciones
+2022-02-28,13115,Alcobendas,Instalaciones
+2022-01-30,12345,Alcobendas,Instalaciones
+2021-12-30,5038,Alcobendas,Instalaciones
+2021-11-30,14053,Alcobendas,Instalaciones
+2021-10-30,11159,Alcobendas,Instalaciones
+2021-09-30,12441,Alcobendas,Instalaciones
+2021-08-30,9169,Alcobendas,Instalaciones
+2021-07-30,8694,Alcobendas,Instalaciones
+2021-06-30,12406,Alcobendas,Instalaciones
+2021-05-30,12112,Alcobendas,Instalaciones
+2021-04-30,9054,Alcobendas,Instalaciones
+2021-03-30,5987,Alcobendas,Instalaciones
+2021-02-28,14006,Alcobendas,Instalaciones
+2021-01-30,11849,Alcobendas,Instalaciones
+2020-12-30,9491,Alcobendas,Instalaciones
+2020-11-30,6805,Alcobendas,Instalaciones
+2023-10-30,9800,Alcobendas,Promocion turismo deportivo
+2023-09-30,14228,Alcobendas,Promocion turismo deportivo
+2023-08-30,9317,Alcobendas,Promocion turismo deportivo
+2023-07-30,9444,Alcobendas,Promocion turismo deportivo
+2023-06-30,13923,Alcobendas,Promocion turismo deportivo
+2023-05-30,12811,Alcobendas,Promocion turismo deportivo
+2023-04-30,11571,Alcobendas,Promocion turismo deportivo
+2023-03-30,10868,Alcobendas,Promocion turismo deportivo
+2023-02-28,13385,Alcobendas,Promocion turismo deportivo
+2023-01-30,8088,Alcobendas,Promocion turismo deportivo
+2022-12-30,10694,Alcobendas,Promocion turismo deportivo
+2022-11-30,6466,Alcobendas,Promocion turismo deportivo
+2022-10-30,13550,Alcobendas,Promocion turismo deportivo
+2022-09-30,14672,Alcobendas,Promocion turismo deportivo
+2022-08-30,13841,Alcobendas,Promocion turismo deportivo
+2022-07-30,13541,Alcobendas,Promocion turismo deportivo
+2022-06-30,6555,Alcobendas,Promocion turismo deportivo
+2022-05-30,14293,Alcobendas,Promocion turismo deportivo
+2022-04-30,6908,Alcobendas,Promocion turismo deportivo
+2022-03-30,7711,Alcobendas,Promocion turismo deportivo
+2022-02-28,13867,Alcobendas,Promocion turismo deportivo
+2022-01-30,9183,Alcobendas,Promocion turismo deportivo
+2021-12-30,9404,Alcobendas,Promocion turismo deportivo
+2021-11-30,14606,Alcobendas,Promocion turismo deportivo
+2021-10-30,10710,Alcobendas,Promocion turismo deportivo
+2021-09-30,11756,Alcobendas,Promocion turismo deportivo
+2021-08-30,6264,Alcobendas,Promocion turismo deportivo
+2021-07-30,5961,Alcobendas,Promocion turismo deportivo
+2021-06-30,13616,Alcobendas,Promocion turismo deportivo
+2021-05-30,14031,Alcobendas,Promocion turismo deportivo
+2021-04-30,7576,Alcobendas,Promocion turismo deportivo
+2021-03-30,8124,Alcobendas,Promocion turismo deportivo
+2021-02-28,8441,Alcobendas,Promocion turismo deportivo
+2021-01-30,14576,Alcobendas,Promocion turismo deportivo
+2020-12-30,7238,Alcobendas,Promocion turismo deportivo
+2020-11-30,7847,Alcobendas,Promocion turismo deportivo
+2023-10-30,6762,Mostoles,Eventos
+2023-09-30,10961,Mostoles,Eventos
+2023-08-30,10070,Mostoles,Eventos
+2023-07-30,10370,Mostoles,Eventos
+2023-06-30,14588,Mostoles,Eventos
+2023-05-30,11437,Mostoles,Eventos
+2023-04-30,9958,Mostoles,Eventos
+2023-03-30,5448,Mostoles,Eventos
+2023-02-28,10923,Mostoles,Eventos
+2023-01-30,13858,Mostoles,Eventos
+2022-12-30,13286,Mostoles,Eventos
+2022-11-30,10048,Mostoles,Eventos
+2022-10-30,11236,Mostoles,Eventos
+2022-09-30,11527,Mostoles,Eventos
+2022-08-30,6136,Mostoles,Eventos
+2022-07-30,10794,Mostoles,Eventos
+2022-06-30,14800,Mostoles,Eventos
+2022-05-30,11760,Mostoles,Eventos
+2022-04-30,7358,Mostoles,Eventos
+2022-03-30,13240,Mostoles,Eventos
+2022-02-28,6703,Mostoles,Eventos
+2022-01-30,11402,Mostoles,Eventos
+2021-12-30,14435,Mostoles,Eventos
+2021-11-30,9251,Mostoles,Eventos
+2021-10-30,8015,Mostoles,Eventos
+2021-09-30,5371,Mostoles,Eventos
+2021-08-30,14688,Mostoles,Eventos
+2021-07-30,12975,Mostoles,Eventos
+2021-06-30,7885,Mostoles,Eventos
+2021-05-30,6577,Mostoles,Eventos
+2021-04-30,10419,Mostoles,Eventos
+2021-03-30,12261,Mostoles,Eventos
+2021-02-28,12502,Mostoles,Eventos
+2021-01-30,13383,Mostoles,Eventos
+2020-12-30,5521,Mostoles,Eventos
+2020-11-30,7371,Mostoles,Eventos
+2023-10-30,9952,Mostoles,Instalaciones
+2023-09-30,10154,Mostoles,Instalaciones
+2023-08-30,10271,Mostoles,Instalaciones
+2023-07-30,5968,Mostoles,Instalaciones
+2023-06-30,10620,Mostoles,Instalaciones
+2023-05-30,6678,Mostoles,Instalaciones
+2023-04-30,5802,Mostoles,Instalaciones
+2023-03-30,10870,Mostoles,Instalaciones
+2023-02-28,7302,Mostoles,Instalaciones
+2023-01-30,8346,Mostoles,Instalaciones
+2022-12-30,5260,Mostoles,Instalaciones
+2022-11-30,9917,Mostoles,Instalaciones
+2022-10-30,11469,Mostoles,Instalaciones
+2022-09-30,14292,Mostoles,Instalaciones
+2022-08-30,13019,Mostoles,Instalaciones
+2022-07-30,10265,Mostoles,Instalaciones
+2022-06-30,14933,Mostoles,Instalaciones
+2022-05-30,9336,Mostoles,Instalaciones
+2022-04-30,9610,Mostoles,Instalaciones
+2022-03-30,9159,Mostoles,Instalaciones
+2022-02-28,13574,Mostoles,Instalaciones
+2022-01-30,14939,Mostoles,Instalaciones
+2021-12-30,9038,Mostoles,Instalaciones
+2021-11-30,10925,Mostoles,Instalaciones
+2021-10-30,9964,Mostoles,Instalaciones
+2021-09-30,7616,Mostoles,Instalaciones
+2021-08-30,7815,Mostoles,Instalaciones
+2021-07-30,13891,Mostoles,Instalaciones
+2021-06-30,9046,Mostoles,Instalaciones
+2021-05-30,11840,Mostoles,Instalaciones
+2021-04-30,5033,Mostoles,Instalaciones
+2021-03-30,8921,Mostoles,Instalaciones
+2021-02-28,8868,Mostoles,Instalaciones
+2021-01-30,10675,Mostoles,Instalaciones
+2020-12-30,8765,Mostoles,Instalaciones
+2020-11-30,13032,Mostoles,Instalaciones
+2023-10-30,11601,Mostoles,Promocion turismo deportivo
+2023-09-30,6600,Mostoles,Promocion turismo deportivo
+2023-08-30,12536,Mostoles,Promocion turismo deportivo
+2023-07-30,11582,Mostoles,Promocion turismo deportivo
+2023-06-30,7205,Mostoles,Promocion turismo deportivo
+2023-05-30,8699,Mostoles,Promocion turismo deportivo
+2023-04-30,13085,Mostoles,Promocion turismo deportivo
+2023-03-30,12051,Mostoles,Promocion turismo deportivo
+2023-02-28,8425,Mostoles,Promocion turismo deportivo
+2023-01-30,10007,Mostoles,Promocion turismo deportivo
+2022-12-30,6350,Mostoles,Promocion turismo deportivo
+2022-11-30,12443,Mostoles,Promocion turismo deportivo
+2022-10-30,5113,Mostoles,Promocion turismo deportivo
+2022-09-30,10818,Mostoles,Promocion turismo deportivo
+2022-08-30,6966,Mostoles,Promocion turismo deportivo
+2022-07-30,10787,Mostoles,Promocion turismo deportivo
+2022-06-30,13748,Mostoles,Promocion turismo deportivo
+2022-05-30,13698,Mostoles,Promocion turismo deportivo
+2022-04-30,9622,Mostoles,Promocion turismo deportivo
+2022-03-30,6490,Mostoles,Promocion turismo deportivo
+2022-02-28,13611,Mostoles,Promocion turismo deportivo
+2022-01-30,13345,Mostoles,Promocion turismo deportivo
+2021-12-30,10501,Mostoles,Promocion turismo deportivo
+2021-11-30,13979,Mostoles,Promocion turismo deportivo
+2021-10-30,10228,Mostoles,Promocion turismo deportivo
+2021-09-30,6909,Mostoles,Promocion turismo deportivo
+2021-08-30,8720,Mostoles,Promocion turismo deportivo
+2021-07-30,8168,Mostoles,Promocion turismo deportivo
+2021-06-30,13927,Mostoles,Promocion turismo deportivo
+2021-05-30,6460,Mostoles,Promocion turismo deportivo
+2021-04-30,11011,Mostoles,Promocion turismo deportivo
+2021-03-30,5843,Mostoles,Promocion turismo deportivo
+2021-02-28,12751,Mostoles,Promocion turismo deportivo
+2021-01-30,6757,Mostoles,Promocion turismo deportivo
+2020-12-30,5720,Mostoles,Promocion turismo deportivo
+2020-11-30,7698,Mostoles,Promocion turismo deportivo

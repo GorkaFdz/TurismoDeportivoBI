@@ -1,0 +1,577 @@
+fecha,cantidad,nombre,nombre_origen
+2023-10-30,13470,Barakaldo,Equipamiento deportivo
+2023-09-30,8145,Barakaldo,Equipamiento deportivo
+2023-08-30,6469,Barakaldo,Equipamiento deportivo
+2023-07-30,13021,Barakaldo,Equipamiento deportivo
+2023-06-30,10589,Barakaldo,Equipamiento deportivo
+2023-05-30,8127,Barakaldo,Equipamiento deportivo
+2023-04-30,10808,Barakaldo,Equipamiento deportivo
+2023-03-30,8964,Barakaldo,Equipamiento deportivo
+2023-02-28,8052,Barakaldo,Equipamiento deportivo
+2023-01-30,5102,Barakaldo,Equipamiento deportivo
+2022-12-30,7957,Barakaldo,Equipamiento deportivo
+2022-11-30,12120,Barakaldo,Equipamiento deportivo
+2022-10-30,7355,Barakaldo,Equipamiento deportivo
+2022-09-30,12163,Barakaldo,Equipamiento deportivo
+2022-08-30,10985,Barakaldo,Equipamiento deportivo
+2022-07-30,10597,Barakaldo,Equipamiento deportivo
+2022-06-30,11762,Barakaldo,Equipamiento deportivo
+2022-05-30,11412,Barakaldo,Equipamiento deportivo
+2022-04-30,14951,Barakaldo,Equipamiento deportivo
+2022-03-30,7904,Barakaldo,Equipamiento deportivo
+2022-02-28,5610,Barakaldo,Equipamiento deportivo
+2022-01-30,9771,Barakaldo,Equipamiento deportivo
+2021-12-30,8513,Barakaldo,Equipamiento deportivo
+2021-11-30,6114,Barakaldo,Equipamiento deportivo
+2021-10-30,8828,Barakaldo,Equipamiento deportivo
+2021-09-30,11834,Barakaldo,Equipamiento deportivo
+2021-08-30,11310,Barakaldo,Equipamiento deportivo
+2021-07-30,13315,Barakaldo,Equipamiento deportivo
+2021-06-30,7080,Barakaldo,Equipamiento deportivo
+2021-05-30,7510,Barakaldo,Equipamiento deportivo
+2021-04-30,14938,Barakaldo,Equipamiento deportivo
+2021-03-30,10571,Barakaldo,Equipamiento deportivo
+2021-02-28,6210,Barakaldo,Equipamiento deportivo
+2021-01-30,5264,Barakaldo,Equipamiento deportivo
+2020-12-30,10121,Barakaldo,Equipamiento deportivo
+2020-11-30,5767,Barakaldo,Equipamiento deportivo
+2023-10-30,11655,Barakaldo,Tributarios
+2023-09-30,6809,Barakaldo,Tributarios
+2023-08-30,5719,Barakaldo,Tributarios
+2023-07-30,11707,Barakaldo,Tributarios
+2023-06-30,6170,Barakaldo,Tributarios
+2023-05-30,7366,Barakaldo,Tributarios
+2023-04-30,8807,Barakaldo,Tributarios
+2023-03-30,11959,Barakaldo,Tributarios
+2023-02-28,11269,Barakaldo,Tributarios
+2023-01-30,11259,Barakaldo,Tributarios
+2022-12-30,9497,Barakaldo,Tributarios
+2022-11-30,13501,Barakaldo,Tributarios
+2022-10-30,11554,Barakaldo,Tributarios
+2022-09-30,5655,Barakaldo,Tributarios
+2022-08-30,9763,Barakaldo,Tributarios
+2022-07-30,10227,Barakaldo,Tributarios
+2022-06-30,5391,Barakaldo,Tributarios
+2022-05-30,14136,Barakaldo,Tributarios
+2022-04-30,5199,Barakaldo,Tributarios
+2022-03-30,5522,Barakaldo,Tributarios
+2022-02-28,8108,Barakaldo,Tributarios
+2022-01-30,5537,Barakaldo,Tributarios
+2021-12-30,10552,Barakaldo,Tributarios
+2021-11-30,7089,Barakaldo,Tributarios
+2021-10-30,13947,Barakaldo,Tributarios
+2021-09-30,14469,Barakaldo,Tributarios
+2021-08-30,9891,Barakaldo,Tributarios
+2021-07-30,9265,Barakaldo,Tributarios
+2021-06-30,13683,Barakaldo,Tributarios
+2021-05-30,6453,Barakaldo,Tributarios
+2021-04-30,6147,Barakaldo,Tributarios
+2021-03-30,10350,Barakaldo,Tributarios
+2021-02-28,5425,Barakaldo,Tributarios
+2021-01-30,8940,Barakaldo,Tributarios
+2020-12-30,11384,Barakaldo,Tributarios
+2020-11-30,7939,Barakaldo,Tributarios
+2023-10-30,5097,Barakaldo,Negocios locales
+2023-09-30,7034,Barakaldo,Negocios locales
+2023-08-30,11969,Barakaldo,Negocios locales
+2023-07-30,8496,Barakaldo,Negocios locales
+2023-06-30,10224,Barakaldo,Negocios locales
+2023-05-30,9897,Barakaldo,Negocios locales
+2023-04-30,13528,Barakaldo,Negocios locales
+2023-03-30,8042,Barakaldo,Negocios locales
+2023-02-28,9554,Barakaldo,Negocios locales
+2023-01-30,6974,Barakaldo,Negocios locales
+2022-12-30,10523,Barakaldo,Negocios locales
+2022-11-30,14932,Barakaldo,Negocios locales
+2022-10-30,11865,Barakaldo,Negocios locales
+2022-09-30,6857,Barakaldo,Negocios locales
+2022-08-30,8844,Barakaldo,Negocios locales
+2022-07-30,9448,Barakaldo,Negocios locales
+2022-06-30,9058,Barakaldo,Negocios locales
+2022-05-30,11168,Barakaldo,Negocios locales
+2022-04-30,6346,Barakaldo,Negocios locales
+2022-03-30,6110,Barakaldo,Negocios locales
+2022-02-28,11599,Barakaldo,Negocios locales
+2022-01-30,10013,Barakaldo,Negocios locales
+2021-12-30,12696,Barakaldo,Negocios locales
+2021-11-30,5696,Barakaldo,Negocios locales
+2021-10-30,13032,Barakaldo,Negocios locales
+2021-09-30,8606,Barakaldo,Negocios locales
+2021-08-30,13652,Barakaldo,Negocios locales
+2021-07-30,14546,Barakaldo,Negocios locales
+2021-06-30,5174,Barakaldo,Negocios locales
+2021-05-30,9466,Barakaldo,Negocios locales
+2021-04-30,5549,Barakaldo,Negocios locales
+2021-03-30,7741,Barakaldo,Negocios locales
+2021-02-28,6497,Barakaldo,Negocios locales
+2021-01-30,14502,Barakaldo,Negocios locales
+2020-12-30,8592,Barakaldo,Negocios locales
+2020-11-30,11327,Barakaldo,Negocios locales
+2023-10-30,14000,Barakaldo,Subvenciones
+2023-09-30,13163,Barakaldo,Subvenciones
+2023-08-30,5034,Barakaldo,Subvenciones
+2023-07-30,12463,Barakaldo,Subvenciones
+2023-06-30,8576,Barakaldo,Subvenciones
+2023-05-30,9156,Barakaldo,Subvenciones
+2023-04-30,13342,Barakaldo,Subvenciones
+2023-03-30,7816,Barakaldo,Subvenciones
+2023-02-28,6855,Barakaldo,Subvenciones
+2023-01-30,9871,Barakaldo,Subvenciones
+2022-12-30,7514,Barakaldo,Subvenciones
+2022-11-30,11957,Barakaldo,Subvenciones
+2022-10-30,8855,Barakaldo,Subvenciones
+2022-09-30,11209,Barakaldo,Subvenciones
+2022-08-30,12413,Barakaldo,Subvenciones
+2022-07-30,12959,Barakaldo,Subvenciones
+2022-06-30,12367,Barakaldo,Subvenciones
+2022-05-30,10881,Barakaldo,Subvenciones
+2022-04-30,9633,Barakaldo,Subvenciones
+2022-03-30,10776,Barakaldo,Subvenciones
+2022-02-28,7165,Barakaldo,Subvenciones
+2022-01-30,6065,Barakaldo,Subvenciones
+2021-12-30,12452,Barakaldo,Subvenciones
+2021-11-30,10845,Barakaldo,Subvenciones
+2021-10-30,7005,Barakaldo,Subvenciones
+2021-09-30,5627,Barakaldo,Subvenciones
+2021-08-30,13944,Barakaldo,Subvenciones
+2021-07-30,6158,Barakaldo,Subvenciones
+2021-06-30,5746,Barakaldo,Subvenciones
+2021-05-30,12548,Barakaldo,Subvenciones
+2021-04-30,5649,Barakaldo,Subvenciones
+2021-03-30,13003,Barakaldo,Subvenciones
+2021-02-28,8070,Barakaldo,Subvenciones
+2021-01-30,11874,Barakaldo,Subvenciones
+2020-12-30,9116,Barakaldo,Subvenciones
+2020-11-30,10535,Barakaldo,Subvenciones
+2023-10-30,11398,Bilbao,Equipamiento deportivo
+2023-09-30,12114,Bilbao,Equipamiento deportivo
+2023-08-30,13360,Bilbao,Equipamiento deportivo
+2023-07-30,11253,Bilbao,Equipamiento deportivo
+2023-06-30,6281,Bilbao,Equipamiento deportivo
+2023-05-30,10775,Bilbao,Equipamiento deportivo
+2023-04-30,14458,Bilbao,Equipamiento deportivo
+2023-03-30,6603,Bilbao,Equipamiento deportivo
+2023-02-28,9268,Bilbao,Equipamiento deportivo
+2023-01-30,5331,Bilbao,Equipamiento deportivo
+2022-12-30,10991,Bilbao,Equipamiento deportivo
+2022-11-30,9935,Bilbao,Equipamiento deportivo
+2022-10-30,7931,Bilbao,Equipamiento deportivo
+2022-09-30,10666,Bilbao,Equipamiento deportivo
+2022-08-30,10537,Bilbao,Equipamiento deportivo
+2022-07-30,12646,Bilbao,Equipamiento deportivo
+2022-06-30,9171,Bilbao,Equipamiento deportivo
+2022-05-30,9750,Bilbao,Equipamiento deportivo
+2022-04-30,7364,Bilbao,Equipamiento deportivo
+2022-03-30,10768,Bilbao,Equipamiento deportivo
+2022-02-28,12314,Bilbao,Equipamiento deportivo
+2022-01-30,11236,Bilbao,Equipamiento deportivo
+2021-12-30,12510,Bilbao,Equipamiento deportivo
+2021-11-30,9881,Bilbao,Equipamiento deportivo
+2021-10-30,10025,Bilbao,Equipamiento deportivo
+2021-09-30,11774,Bilbao,Equipamiento deportivo
+2021-08-30,11802,Bilbao,Equipamiento deportivo
+2021-07-30,9714,Bilbao,Equipamiento deportivo
+2021-06-30,6160,Bilbao,Equipamiento deportivo
+2021-05-30,11433,Bilbao,Equipamiento deportivo
+2021-04-30,10474,Bilbao,Equipamiento deportivo
+2021-03-30,14152,Bilbao,Equipamiento deportivo
+2021-02-28,7846,Bilbao,Equipamiento deportivo
+2021-01-30,12684,Bilbao,Equipamiento deportivo
+2020-12-30,9985,Bilbao,Equipamiento deportivo
+2020-11-30,12818,Bilbao,Equipamiento deportivo
+2023-10-30,13111,Bilbao,Tributarios
+2023-09-30,10326,Bilbao,Tributarios
+2023-08-30,11605,Bilbao,Tributarios
+2023-07-30,11493,Bilbao,Tributarios
+2023-06-30,8051,Bilbao,Tributarios
+2023-05-30,5610,Bilbao,Tributarios
+2023-04-30,5279,Bilbao,Tributarios
+2023-03-30,7190,Bilbao,Tributarios
+2023-02-28,12987,Bilbao,Tributarios
+2023-01-30,10016,Bilbao,Tributarios
+2022-12-30,12143,Bilbao,Tributarios
+2022-11-30,10773,Bilbao,Tributarios
+2022-10-30,13333,Bilbao,Tributarios
+2022-09-30,5866,Bilbao,Tributarios
+2022-08-30,5663,Bilbao,Tributarios
+2022-07-30,14059,Bilbao,Tributarios
+2022-06-30,12483,Bilbao,Tributarios
+2022-05-30,13651,Bilbao,Tributarios
+2022-04-30,13407,Bilbao,Tributarios
+2022-03-30,6933,Bilbao,Tributarios
+2022-02-28,14272,Bilbao,Tributarios
+2022-01-30,11851,Bilbao,Tributarios
+2021-12-30,7671,Bilbao,Tributarios
+2021-11-30,13121,Bilbao,Tributarios
+2021-10-30,6273,Bilbao,Tributarios
+2021-09-30,9631,Bilbao,Tributarios
+2021-08-30,14901,Bilbao,Tributarios
+2021-07-30,5175,Bilbao,Tributarios
+2021-06-30,10988,Bilbao,Tributarios
+2021-05-30,7493,Bilbao,Tributarios
+2021-04-30,7808,Bilbao,Tributarios
+2021-03-30,11303,Bilbao,Tributarios
+2021-02-28,5041,Bilbao,Tributarios
+2021-01-30,5135,Bilbao,Tributarios
+2020-12-30,9347,Bilbao,Tributarios
+2020-11-30,9852,Bilbao,Tributarios
+2023-10-30,10696,Bilbao,Negocios locales
+2023-09-30,10069,Bilbao,Negocios locales
+2023-08-30,8791,Bilbao,Negocios locales
+2023-07-30,14488,Bilbao,Negocios locales
+2023-06-30,14895,Bilbao,Negocios locales
+2023-05-30,8286,Bilbao,Negocios locales
+2023-04-30,8980,Bilbao,Negocios locales
+2023-03-30,11797,Bilbao,Negocios locales
+2023-02-28,7751,Bilbao,Negocios locales
+2023-01-30,9176,Bilbao,Negocios locales
+2022-12-30,12695,Bilbao,Negocios locales
+2022-11-30,7766,Bilbao,Negocios locales
+2022-10-30,10797,Bilbao,Negocios locales
+2022-09-30,8443,Bilbao,Negocios locales
+2022-08-30,9823,Bilbao,Negocios locales
+2022-07-30,14367,Bilbao,Negocios locales
+2022-06-30,9977,Bilbao,Negocios locales
+2022-05-30,13600,Bilbao,Negocios locales
+2022-04-30,5532,Bilbao,Negocios locales
+2022-03-30,8304,Bilbao,Negocios locales
+2022-02-28,5200,Bilbao,Negocios locales
+2022-01-30,8396,Bilbao,Negocios locales
+2021-12-30,10811,Bilbao,Negocios locales
+2021-11-30,11539,Bilbao,Negocios locales
+2021-10-30,7429,Bilbao,Negocios locales
+2021-09-30,12889,Bilbao,Negocios locales
+2021-08-30,8174,Bilbao,Negocios locales
+2021-07-30,5111,Bilbao,Negocios locales
+2021-06-30,11905,Bilbao,Negocios locales
+2021-05-30,10556,Bilbao,Negocios locales
+2021-04-30,7610,Bilbao,Negocios locales
+2021-03-30,11097,Bilbao,Negocios locales
+2021-02-28,7528,Bilbao,Negocios locales
+2021-01-30,9534,Bilbao,Negocios locales
+2020-12-30,6634,Bilbao,Negocios locales
+2020-11-30,11608,Bilbao,Negocios locales
+2023-10-30,14297,Bilbao,Subvenciones
+2023-09-30,11632,Bilbao,Subvenciones
+2023-08-30,6787,Bilbao,Subvenciones
+2023-07-30,12147,Bilbao,Subvenciones
+2023-06-30,13553,Bilbao,Subvenciones
+2023-05-30,5850,Bilbao,Subvenciones
+2023-04-30,10665,Bilbao,Subvenciones
+2023-03-30,10202,Bilbao,Subvenciones
+2023-02-28,6592,Bilbao,Subvenciones
+2023-01-30,6754,Bilbao,Subvenciones
+2022-12-30,14562,Bilbao,Subvenciones
+2022-11-30,8973,Bilbao,Subvenciones
+2022-10-30,11837,Bilbao,Subvenciones
+2022-09-30,6884,Bilbao,Subvenciones
+2022-08-30,13415,Bilbao,Subvenciones
+2022-07-30,12854,Bilbao,Subvenciones
+2022-06-30,6503,Bilbao,Subvenciones
+2022-05-30,14482,Bilbao,Subvenciones
+2022-04-30,5811,Bilbao,Subvenciones
+2022-03-30,12613,Bilbao,Subvenciones
+2022-02-28,6701,Bilbao,Subvenciones
+2022-01-30,6952,Bilbao,Subvenciones
+2021-12-30,6429,Bilbao,Subvenciones
+2021-11-30,8035,Bilbao,Subvenciones
+2021-10-30,7806,Bilbao,Subvenciones
+2021-09-30,8769,Bilbao,Subvenciones
+2021-08-30,13218,Bilbao,Subvenciones
+2021-07-30,7425,Bilbao,Subvenciones
+2021-06-30,11161,Bilbao,Subvenciones
+2021-05-30,12817,Bilbao,Subvenciones
+2021-04-30,13691,Bilbao,Subvenciones
+2021-03-30,12368,Bilbao,Subvenciones
+2021-02-28,11711,Bilbao,Subvenciones
+2021-01-30,12552,Bilbao,Subvenciones
+2020-12-30,13488,Bilbao,Subvenciones
+2020-11-30,12400,Bilbao,Subvenciones
+2023-10-30,5724,Alcobendas,Equipamiento deportivo
+2023-09-30,10882,Alcobendas,Equipamiento deportivo
+2023-08-30,5579,Alcobendas,Equipamiento deportivo
+2023-07-30,14787,Alcobendas,Equipamiento deportivo
+2023-06-30,6628,Alcobendas,Equipamiento deportivo
+2023-05-30,10360,Alcobendas,Equipamiento deportivo
+2023-04-30,7423,Alcobendas,Equipamiento deportivo
+2023-03-30,5987,Alcobendas,Equipamiento deportivo
+2023-02-28,7254,Alcobendas,Equipamiento deportivo
+2023-01-30,9323,Alcobendas,Equipamiento deportivo
+2022-12-30,8626,Alcobendas,Equipamiento deportivo
+2022-11-30,12093,Alcobendas,Equipamiento deportivo
+2022-10-30,6975,Alcobendas,Equipamiento deportivo
+2022-09-30,14109,Alcobendas,Equipamiento deportivo
+2022-08-30,13310,Alcobendas,Equipamiento deportivo
+2022-07-30,8825,Alcobendas,Equipamiento deportivo
+2022-06-30,14767,Alcobendas,Equipamiento deportivo
+2022-05-30,8568,Alcobendas,Equipamiento deportivo
+2022-04-30,9814,Alcobendas,Equipamiento deportivo
+2022-03-30,7417,Alcobendas,Equipamiento deportivo
+2022-02-28,12981,Alcobendas,Equipamiento deportivo
+2022-01-30,7068,Alcobendas,Equipamiento deportivo
+2021-12-30,8538,Alcobendas,Equipamiento deportivo
+2021-11-30,10903,Alcobendas,Equipamiento deportivo
+2021-10-30,9297,Alcobendas,Equipamiento deportivo
+2021-09-30,5214,Alcobendas,Equipamiento deportivo
+2021-08-30,14722,Alcobendas,Equipamiento deportivo
+2021-07-30,7293,Alcobendas,Equipamiento deportivo
+2021-06-30,5110,Alcobendas,Equipamiento deportivo
+2021-05-30,5870,Alcobendas,Equipamiento deportivo
+2021-04-30,12685,Alcobendas,Equipamiento deportivo
+2021-03-30,8411,Alcobendas,Equipamiento deportivo
+2021-02-28,10523,Alcobendas,Equipamiento deportivo
+2021-01-30,5072,Alcobendas,Equipamiento deportivo
+2020-12-30,7353,Alcobendas,Equipamiento deportivo
+2020-11-30,8781,Alcobendas,Equipamiento deportivo
+2023-10-30,8685,Alcobendas,Tributarios
+2023-09-30,9421,Alcobendas,Tributarios
+2023-08-30,6375,Alcobendas,Tributarios
+2023-07-30,10813,Alcobendas,Tributarios
+2023-06-30,13693,Alcobendas,Tributarios
+2023-05-30,10828,Alcobendas,Tributarios
+2023-04-30,5681,Alcobendas,Tributarios
+2023-03-30,5430,Alcobendas,Tributarios
+2023-02-28,6577,Alcobendas,Tributarios
+2023-01-30,6548,Alcobendas,Tributarios
+2022-12-30,14165,Alcobendas,Tributarios
+2022-11-30,10536,Alcobendas,Tributarios
+2022-10-30,6611,Alcobendas,Tributarios
+2022-09-30,8575,Alcobendas,Tributarios
+2022-08-30,11038,Alcobendas,Tributarios
+2022-07-30,9693,Alcobendas,Tributarios
+2022-06-30,10384,Alcobendas,Tributarios
+2022-05-30,11327,Alcobendas,Tributarios
+2022-04-30,6425,Alcobendas,Tributarios
+2022-03-30,6064,Alcobendas,Tributarios
+2022-02-28,7886,Alcobendas,Tributarios
+2022-01-30,5327,Alcobendas,Tributarios
+2021-12-30,11377,Alcobendas,Tributarios
+2021-11-30,9904,Alcobendas,Tributarios
+2021-10-30,13468,Alcobendas,Tributarios
+2021-09-30,6166,Alcobendas,Tributarios
+2021-08-30,14711,Alcobendas,Tributarios
+2021-07-30,14193,Alcobendas,Tributarios
+2021-06-30,14508,Alcobendas,Tributarios
+2021-05-30,6583,Alcobendas,Tributarios
+2021-04-30,8093,Alcobendas,Tributarios
+2021-03-30,11887,Alcobendas,Tributarios
+2021-02-28,12393,Alcobendas,Tributarios
+2021-01-30,7929,Alcobendas,Tributarios
+2020-12-30,7511,Alcobendas,Tributarios
+2020-11-30,8751,Alcobendas,Tributarios
+2023-10-30,8883,Alcobendas,Negocios locales
+2023-09-30,8961,Alcobendas,Negocios locales
+2023-08-30,13645,Alcobendas,Negocios locales
+2023-07-30,8845,Alcobendas,Negocios locales
+2023-06-30,6852,Alcobendas,Negocios locales
+2023-05-30,11643,Alcobendas,Negocios locales
+2023-04-30,8372,Alcobendas,Negocios locales
+2023-03-30,11180,Alcobendas,Negocios locales
+2023-02-28,12942,Alcobendas,Negocios locales
+2023-01-30,7981,Alcobendas,Negocios locales
+2022-12-30,12508,Alcobendas,Negocios locales
+2022-11-30,8317,Alcobendas,Negocios locales
+2022-10-30,12003,Alcobendas,Negocios locales
+2022-09-30,9676,Alcobendas,Negocios locales
+2022-08-30,6444,Alcobendas,Negocios locales
+2022-07-30,13019,Alcobendas,Negocios locales
+2022-06-30,9625,Alcobendas,Negocios locales
+2022-05-30,5202,Alcobendas,Negocios locales
+2022-04-30,11129,Alcobendas,Negocios locales
+2022-03-30,11656,Alcobendas,Negocios locales
+2022-02-28,11291,Alcobendas,Negocios locales
+2022-01-30,11656,Alcobendas,Negocios locales
+2021-12-30,10204,Alcobendas,Negocios locales
+2021-11-30,11557,Alcobendas,Negocios locales
+2021-10-30,10161,Alcobendas,Negocios locales
+2021-09-30,12074,Alcobendas,Negocios locales
+2021-08-30,13527,Alcobendas,Negocios locales
+2021-07-30,9747,Alcobendas,Negocios locales
+2021-06-30,12279,Alcobendas,Negocios locales
+2021-05-30,11855,Alcobendas,Negocios locales
+2021-04-30,8798,Alcobendas,Negocios locales
+2021-03-30,7733,Alcobendas,Negocios locales
+2021-02-28,8879,Alcobendas,Negocios locales
+2021-01-30,10105,Alcobendas,Negocios locales
+2020-12-30,7903,Alcobendas,Negocios locales
+2020-11-30,8510,Alcobendas,Negocios locales
+2023-10-30,12812,Alcobendas,Subvenciones
+2023-09-30,6293,Alcobendas,Subvenciones
+2023-08-30,11792,Alcobendas,Subvenciones
+2023-07-30,9657,Alcobendas,Subvenciones
+2023-06-30,5995,Alcobendas,Subvenciones
+2023-05-30,8251,Alcobendas,Subvenciones
+2023-04-30,6222,Alcobendas,Subvenciones
+2023-03-30,9073,Alcobendas,Subvenciones
+2023-02-28,9897,Alcobendas,Subvenciones
+2023-01-30,11369,Alcobendas,Subvenciones
+2022-12-30,7395,Alcobendas,Subvenciones
+2022-11-30,6065,Alcobendas,Subvenciones
+2022-10-30,12821,Alcobendas,Subvenciones
+2022-09-30,8795,Alcobendas,Subvenciones
+2022-08-30,13111,Alcobendas,Subvenciones
+2022-07-30,10487,Alcobendas,Subvenciones
+2022-06-30,9113,Alcobendas,Subvenciones
+2022-05-30,9507,Alcobendas,Subvenciones
+2022-04-30,11232,Alcobendas,Subvenciones
+2022-03-30,11511,Alcobendas,Subvenciones
+2022-02-28,13118,Alcobendas,Subvenciones
+2022-01-30,12391,Alcobendas,Subvenciones
+2021-12-30,12612,Alcobendas,Subvenciones
+2021-11-30,7320,Alcobendas,Subvenciones
+2021-10-30,8049,Alcobendas,Subvenciones
+2021-09-30,14984,Alcobendas,Subvenciones
+2021-08-30,12614,Alcobendas,Subvenciones
+2021-07-30,9068,Alcobendas,Subvenciones
+2021-06-30,8965,Alcobendas,Subvenciones
+2021-05-30,11463,Alcobendas,Subvenciones
+2021-04-30,11326,Alcobendas,Subvenciones
+2021-03-30,10543,Alcobendas,Subvenciones
+2021-02-28,13309,Alcobendas,Subvenciones
+2021-01-30,14865,Alcobendas,Subvenciones
+2020-12-30,12911,Alcobendas,Subvenciones
+2020-11-30,6980,Alcobendas,Subvenciones
+2023-10-30,9433,Mostoles,Equipamiento deportivo
+2023-09-30,8663,Mostoles,Equipamiento deportivo
+2023-08-30,14332,Mostoles,Equipamiento deportivo
+2023-07-30,7766,Mostoles,Equipamiento deportivo
+2023-06-30,6966,Mostoles,Equipamiento deportivo
+2023-05-30,5840,Mostoles,Equipamiento deportivo
+2023-04-30,11113,Mostoles,Equipamiento deportivo
+2023-03-30,12818,Mostoles,Equipamiento deportivo
+2023-02-28,5600,Mostoles,Equipamiento deportivo
+2023-01-30,13745,Mostoles,Equipamiento deportivo
+2022-12-30,5878,Mostoles,Equipamiento deportivo
+2022-11-30,8023,Mostoles,Equipamiento deportivo
+2022-10-30,14985,Mostoles,Equipamiento deportivo
+2022-09-30,7612,Mostoles,Equipamiento deportivo
+2022-08-30,14951,Mostoles,Equipamiento deportivo
+2022-07-30,12418,Mostoles,Equipamiento deportivo
+2022-06-30,5991,Mostoles,Equipamiento deportivo
+2022-05-30,7837,Mostoles,Equipamiento deportivo
+2022-04-30,10297,Mostoles,Equipamiento deportivo
+2022-03-30,7133,Mostoles,Equipamiento deportivo
+2022-02-28,7092,Mostoles,Equipamiento deportivo
+2022-01-30,7450,Mostoles,Equipamiento deportivo
+2021-12-30,12073,Mostoles,Equipamiento deportivo
+2021-11-30,11189,Mostoles,Equipamiento deportivo
+2021-10-30,12417,Mostoles,Equipamiento deportivo
+2021-09-30,8875,Mostoles,Equipamiento deportivo
+2021-08-30,9864,Mostoles,Equipamiento deportivo
+2021-07-30,11892,Mostoles,Equipamiento deportivo
+2021-06-30,14874,Mostoles,Equipamiento deportivo
+2021-05-30,8559,Mostoles,Equipamiento deportivo
+2021-04-30,14653,Mostoles,Equipamiento deportivo
+2021-03-30,12195,Mostoles,Equipamiento deportivo
+2021-02-28,7350,Mostoles,Equipamiento deportivo
+2021-01-30,5740,Mostoles,Equipamiento deportivo
+2020-12-30,5365,Mostoles,Equipamiento deportivo
+2020-11-30,5294,Mostoles,Equipamiento deportivo
+2023-10-30,12444,Mostoles,Tributarios
+2023-09-30,6967,Mostoles,Tributarios
+2023-08-30,12567,Mostoles,Tributarios
+2023-07-30,8832,Mostoles,Tributarios
+2023-06-30,10464,Mostoles,Tributarios
+2023-05-30,11486,Mostoles,Tributarios
+2023-04-30,12072,Mostoles,Tributarios
+2023-03-30,10398,Mostoles,Tributarios
+2023-02-28,11922,Mostoles,Tributarios
+2023-01-30,7793,Mostoles,Tributarios
+2022-12-30,14807,Mostoles,Tributarios
+2022-11-30,9903,Mostoles,Tributarios
+2022-10-30,13803,Mostoles,Tributarios
+2022-09-30,8009,Mostoles,Tributarios
+2022-08-30,8456,Mostoles,Tributarios
+2022-07-30,7433,Mostoles,Tributarios
+2022-06-30,14211,Mostoles,Tributarios
+2022-05-30,11968,Mostoles,Tributarios
+2022-04-30,6142,Mostoles,Tributarios
+2022-03-30,11419,Mostoles,Tributarios
+2022-02-28,12116,Mostoles,Tributarios
+2022-01-30,5455,Mostoles,Tributarios
+2021-12-30,7546,Mostoles,Tributarios
+2021-11-30,7351,Mostoles,Tributarios
+2021-10-30,14041,Mostoles,Tributarios
+2021-09-30,8722,Mostoles,Tributarios
+2021-08-30,6215,Mostoles,Tributarios
+2021-07-30,12540,Mostoles,Tributarios
+2021-06-30,7377,Mostoles,Tributarios
+2021-05-30,9742,Mostoles,Tributarios
+2021-04-30,11113,Mostoles,Tributarios
+2021-03-30,5113,Mostoles,Tributarios
+2021-02-28,7116,Mostoles,Tributarios
+2021-01-30,7516,Mostoles,Tributarios
+2020-12-30,11242,Mostoles,Tributarios
+2020-11-30,12744,Mostoles,Tributarios
+2023-10-30,14209,Mostoles,Negocios locales
+2023-09-30,10660,Mostoles,Negocios locales
+2023-08-30,5012,Mostoles,Negocios locales
+2023-07-30,7715,Mostoles,Negocios locales
+2023-06-30,6344,Mostoles,Negocios locales
+2023-05-30,5465,Mostoles,Negocios locales
+2023-04-30,14270,Mostoles,Negocios locales
+2023-03-30,13530,Mostoles,Negocios locales
+2023-02-28,6020,Mostoles,Negocios locales
+2023-01-30,11209,Mostoles,Negocios locales
+2022-12-30,9981,Mostoles,Negocios locales
+2022-11-30,5199,Mostoles,Negocios locales
+2022-10-30,13585,Mostoles,Negocios locales
+2022-09-30,12755,Mostoles,Negocios locales
+2022-08-30,8542,Mostoles,Negocios locales
+2022-07-30,10730,Mostoles,Negocios locales
+2022-06-30,10010,Mostoles,Negocios locales
+2022-05-30,6046,Mostoles,Negocios locales
+2022-04-30,5902,Mostoles,Negocios locales
+2022-03-30,7714,Mostoles,Negocios locales
+2022-02-28,13138,Mostoles,Negocios locales
+2022-01-30,9095,Mostoles,Negocios locales
+2021-12-30,9957,Mostoles,Negocios locales
+2021-11-30,12871,Mostoles,Negocios locales
+2021-10-30,12893,Mostoles,Negocios locales
+2021-09-30,13239,Mostoles,Negocios locales
+2021-08-30,9179,Mostoles,Negocios locales
+2021-07-30,8067,Mostoles,Negocios locales
+2021-06-30,13269,Mostoles,Negocios locales
+2021-05-30,8796,Mostoles,Negocios locales
+2021-04-30,8817,Mostoles,Negocios locales
+2021-03-30,6920,Mostoles,Negocios locales
+2021-02-28,8184,Mostoles,Negocios locales
+2021-01-30,8865,Mostoles,Negocios locales
+2020-12-30,12191,Mostoles,Negocios locales
+2020-11-30,7140,Mostoles,Negocios locales
+2023-10-30,12480,Mostoles,Subvenciones
+2023-09-30,10735,Mostoles,Subvenciones
+2023-08-30,8114,Mostoles,Subvenciones
+2023-07-30,5233,Mostoles,Subvenciones
+2023-06-30,10181,Mostoles,Subvenciones
+2023-05-30,8420,Mostoles,Subvenciones
+2023-04-30,11040,Mostoles,Subvenciones
+2023-03-30,9059,Mostoles,Subvenciones
+2023-02-28,7948,Mostoles,Subvenciones
+2023-01-30,12155,Mostoles,Subvenciones
+2022-12-30,5443,Mostoles,Subvenciones
+2022-11-30,6527,Mostoles,Subvenciones
+2022-10-30,9425,Mostoles,Subvenciones
+2022-09-30,12498,Mostoles,Subvenciones
+2022-08-30,12787,Mostoles,Subvenciones
+2022-07-30,14060,Mostoles,Subvenciones
+2022-06-30,14564,Mostoles,Subvenciones
+2022-05-30,12024,Mostoles,Subvenciones
+2022-04-30,8319,Mostoles,Subvenciones
+2022-03-30,9350,Mostoles,Subvenciones
+2022-02-28,9329,Mostoles,Subvenciones
+2022-01-30,6748,Mostoles,Subvenciones
+2021-12-30,6200,Mostoles,Subvenciones
+2021-11-30,9620,Mostoles,Subvenciones
+2021-10-30,14362,Mostoles,Subvenciones
+2021-09-30,10498,Mostoles,Subvenciones
+2021-08-30,8123,Mostoles,Subvenciones
+2021-07-30,8607,Mostoles,Subvenciones
+2021-06-30,13909,Mostoles,Subvenciones
+2021-05-30,7714,Mostoles,Subvenciones
+2021-04-30,10686,Mostoles,Subvenciones
+2021-03-30,14625,Mostoles,Subvenciones
+2021-02-28,7757,Mostoles,Subvenciones
+2021-01-30,5953,Mostoles,Subvenciones
+2020-12-30,6233,Mostoles,Subvenciones
+2020-11-30,14495,Mostoles,Subvenciones

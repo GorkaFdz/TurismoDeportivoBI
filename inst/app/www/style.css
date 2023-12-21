@@ -1,0 +1,826 @@
+.seleccionado {
+    background-color: #cce6e7!important;
+    box-shadow: inset 0px 3px 5px 0px #0000006e, 0px 1px 5px 0px #0000006e!important;
+}
+.hover {
+    box-shadow: inset 0px 3px 5px 0px #0000006e, 0px 1px 5px 0px #0000006e!important;
+}
+.info {
+    position: absolute; 
+    right: 10px; 
+    top: 10px;
+}
+    
+.titulo {
+    height: 34px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+
+.popover.popover-lg {
+    width: 300px; max-width: 300px;
+}
+
+#tituloBarras {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+#Turistas, #Empleo, #Programas {
+    cursor: pointer;
+}
+
+div.infopop, div.infopopInstalaciones{
+    margin: 0;
+    padding: 0;
+    visibility: hidden;
+    width: 200px;
+    background-color: white;
+    position: absolute;
+    right: 10px;
+    top: 54px;
+    z-index: 1;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 6px;
+    box-shadow: 0 5px 10px rgb(0 0 0 / 20%);
+}
+
+div.arrow {
+    height: 0;
+    width: 0;
+    border: 10px solid transparent;
+    border-bottom-color: rgba(0,0,0,.2);
+    position: absolute;
+    top: -21px;
+    right: 5px;
+    z-index: 1;
+    pointer-events: none;
+}
+
+div.infoContent, div.infoContentInstalaciones {
+    text-indent: 5px;
+    font-size: 14px;
+    padding: 10px;
+}
+
+.popover-title {
+    padding: 8px 14px;
+    margin: 0;
+    font-size: 14px;
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #ebebeb;
+    border-radius: 5px 5px 0 0;
+}
+
+#indicadores:hover, #instalaciones:hover, #evento:hover, #clubes:hover, #economico:hover, #metodologia:hover, #ambiental:hover, #social:hover {
+    color:#FFAE00;
+    transform: scale(1.1);
+}
+
+#indicadores, #instalaciones, #evento, #clubes, #economico, #metodologia, #ambiental, #social {
+    background-color: rgba(0,0,0,0); 
+    border-color: rgba(0,0,0,0); 
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 15px;
+}
+
+.menuSelec {
+    background-color: #6A8D9050!important;
+}
+
+.caj{
+    width: 33.3333%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.indicador {
+    font-size: 18px;
+    font-family: 'Source Sans Pro',sans-serif;
+    position: relative;
+    border-radius: 3px;
+    background: #fff;
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+}
+
+.tituloIndicador {
+    display: inline-block;
+    font-size: 1.25em;
+    margin: 0;
+    line-height: 1;
+    margin-top: 10px;
+}
+
+.tituloIndicadorEco {
+    display: inline-block;
+    font-size: 18px;
+    margin: 0;
+    line-height: 1;
+    margin-top: 10px;
+}
+
+.encabezadoIndicador {
+    height: 38px;
+    box-sizing: border-box;
+    color: rgb(68, 68, 68);
+    display: block;
+    position: relative;
+    padding: 0;
+    text-align: center;
+}
+
+.cuerpoIndicador {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 10px;
+    padding-top: 0;
+    overflow: hidden;
+    height: 85%;
+}
+
+.cuerpoIndicadorV {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 10px;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    margin-top: 10px;
+    height: 85%;
+}
+
+.indicadorAmbiental {
+    height: 100%;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 25% 30%;
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+    align-items: center;
+    justify-content: center;
+}
+
+.imgIndicador {
+    height: 50%; 
+    max-width:100%; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    overflow: hidden;
+}
+
+#boxTitle .box-header{
+    display: none;
+}
+#boxTitle {
+    height: 103.22px;
+}
+
+#fooMetodologia {
+    box-shadow: 0px 3px 5px 0px #0000006e;
+    margin-top: 15px;
+    height: calc(90vh - 30px);
+}
+
+#fooAmb {
+    height: calc(30vh - 117px);
+    box-shadow: 0px 3px 5px 0px #0000006e;
+}
+
+#foo .box-header, #foo2 .box-header, #fooAmb .box-header, #fooMetodologia .box-header, #fooEco .box-header, #fooSocial .box-header, #fooSocial2 .box-header, #fooSocialZ .box-header {
+    display: none
+}
+
+#foo2 {
+    height: calc(55vh - 219px);
+    box-shadow: 0px 3px 5px 0px #0000006e;
+}
+
+#foo, #ecoAmb {
+    height: calc(35vh - 60px);
+    box-shadow: 0px 3px 5px 0px #0000006e;
+}
+
+#eco, .nav-tabs-custom {
+    height: calc(55vh - 60px);
+    box-shadow: 0px 3px 5px 0px #0000006e;
+}
+
+#fooEco, #ecoEco {
+    height: calc((90vh - 120px)/2);
+    box-shadow: 0px 3px 5px 0px #0000006e;
+}
+
+#ecoAmb .box-body, #eco .box-body, #ecoEco .box-body, #ecoSocial .box-body, #ecoSocial2 .box-body {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#barras, #deportesClub, #numMiembros {
+    height: calc(55vh - 111px) !important;
+}
+
+#inversion, #ingresos {
+    height: calc((90vh - 80px)/2 - 61px) !important;
+}
+
+#efectoInvernadero, #ruido, #residuos {
+    height: calc(35vh - 105px) !important;
+}
+
+#ecoSocial {
+    height: 25vh;
+    box-shadow: 0px 3px 5px 0px #0000006e;
+}
+
+#fooSocial {
+    height: 12vh;
+    box-shadow: 0px 3px 5px 0px #0000006e;
+}
+
+#fooSocialZ {
+    height: 12vh;
+    box-shadow: 0px 3px 5px 0px #0000006e;
+    z-index: 1000;
+}
+
+.socialEvento {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: -10px;
+}
+
+#ecoSocial2 {
+    height: calc(37vh + 15px);
+    box-shadow: 0px 3px 5px 0px #0000006e;
+}
+
+#fooSocial2 {
+    height: calc((37vh)/2);
+    box-shadow: 0px 3px 5px 0px #0000006e;
+}
+
+#usoInstalaciones, #numEventos, #barras {
+    height: calc(25vh - 42px)!important;
+}
+
+#numClubes {
+    height: calc(37vh - 27px)!important;
+}
+
+.info2 {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.content {
+    padding-left: 3vw;
+    padding-right: 3vw;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#fila {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#fila2 {
+    padding-left: 15px;
+    padding-right: 30px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 15px;
+}
+
+.barraSup {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 15px;
+    background-color: white;
+    border-radius: 3px;
+    height: 60px;
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 3px 5px 0px #0000006e;
+}
+
+label{
+    margin-bottom: 0;
+    font-weight: normal;
+}
+.rectangulo {
+    /* position: absolute;
+    left: calc(3vw + 30px); */
+    height: 14px;
+    width: 7px;
+    background-color: #FFAE00;
+}
+
+.seleccionadores {
+    display: flex;
+    gap: 1rem;
+}
+
+.lista{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    margin-bottom: 15px;
+}
+
+.form-group {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 15px;
+    width: auto!important;
+}
+
+h3 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.under {
+    color: rgba(255, 255, 255)!important;
+    text-decoration: underline!important;
+    text-decoration-color: #FFAE00!important;
+}
+
+body, h3, h2, h4 {
+    font-family: "Segoe UI", wf_segoe-ui_normal, helvetica, arial, sans-serif;
+}
+
+.navbar {
+    background-color: #6A8D90!important;
+}
+
+.content-wrapper {
+    background-color: #E6E6E6;
+}
+
+button:active {
+    box-shadow: none!important;
+}
+
+#graficoClub {
+    width: 112.33px;
+}
+
+.navmenuR {
+    margin-top: 7.5px;
+    margin-right: 5vw;
+    float: right;
+}
+
+.navmenuL {
+    margin-top: 5px;
+    float: left;
+}
+
+.logoHeader{
+    height: 40px;
+    margin-top: -2.5px!important;
+    margin-left: calc(5vw - 30px)!important;
+}
+
+.box-body {
+    height: 100%;
+}
+
+#var:after {
+    width: 0; 
+    height: 0; 
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid black;
+}
+
+.num{
+    text-align: center;  
+    font-weight: bold; 
+    font-size: 2em;
+    margin-top: 5px;
+}
+
+.prc{
+    text-align: center;  
+    font-weight: bold; 
+    margin-top: 15px; 
+    font-size: 1.5em;
+    margin-bottom: 0px;
+}
+
+.var{
+    text-align: center; 
+    margin-top: 0;  
+    font-size: 1em;
+}
+
+.numEco{
+    text-align: center;  
+    font-weight: bold; 
+    font-size: 2.25em;
+    margin-top: 5px;
+}
+
+.prcEco{
+    text-align: center;  
+    font-weight: bold; 
+    margin-top: 20px; 
+    font-size: 1.75em;
+    margin-bottom: 5px;
+}
+
+.varEco{
+    text-align: center; 
+    margin-top: 0;  
+    font-size: 1.25em;
+}
+
+.numAmb{
+    text-align: center; 
+    font-size: 1.25em;
+    margin-top: 10px;
+}
+
+.prcAmb{
+    text-align: center;  
+    font-weight: bold; 
+    margin-top: 10px; 
+    font-size: 1.75em;
+    margin-bottom: 0;
+}
+
+.varAmb{
+    text-align: center; 
+    margin-top: 0;  
+    font-size: 1em;
+}
+
+.media{
+    text-align: center; 
+    margin-top: 15px; 
+    font-size: 1.25em;
+    margin-bottom: 0;
+}
+
+.mediaVal{
+    text-align: center;
+    font-weight: bold; 
+    margin-top: 0;  
+    font-size: 1.25em;
+}
+
+.tasa{
+    font-size: 1.5em;
+}
+
+.datosRuido {
+    grid-column: 2; 
+    grid-row: 1;
+    display: grid;
+    grid-template-columns: 60% 20%;
+    align-items: center;
+}
+
+.ruidoVal {
+    font-weight: bold;
+    font-size: 1.75em;
+}
+
+.ruidoText {
+    font-size: 1.25em;
+}
+
+.numSoc {
+    text-align: center; 
+    font-size: 1.25em;
+    margin-top: 0;
+}
+
+.prcSoc {
+    text-align: center;  
+    font-weight: bold; 
+    margin-top: 10px; 
+    font-size: 1.75em;
+    margin-bottom: 10px;
+}
+
+.numSoc2 {
+    text-align: center; 
+    font-size: 1em;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.prcSoc2 {
+    text-align: center;  
+    font-weight: bold; 
+    margin-top: 0; 
+    font-size: 1em;
+    margin-bottom: 0;
+}
+
+
+@media screen and (height <= 1000px) {
+	.num, .prc, .var, .media, .mediaVal{
+        line-height: 1;
+    }
+    .prc {
+        margin-bottom: 5px;
+    }
+}
+
+@media screen and (height <= 850px) {
+	.num{
+        font-size: 1.5em;
+        line-height: 0.75;
+    }
+    
+    .prc, .tasa{
+        font-size: 1.25em;
+        line-height: 0.75;
+        margin-top: 10px;
+    }
+    
+    .var{
+        font-size: 1em;
+        line-height: 0.75;
+    }
+
+    .media, .mediaVal{
+        font-size: 1.1em;
+        line-height: 0.75;
+    }
+    .numEco{
+        font-size: 2em;
+        line-height: 1.25;
+    }
+    
+    .prcEco{
+        font-size: 1.75em;
+        line-height: 1.25;
+        margin-top: 10px;
+    }
+    
+    .varEco{
+        font-size: 1.5em;
+        line-height: 1.25;
+    }
+
+    .tituloIndicador {
+        font-size: 1em;
+        margin-top: 5px;
+    }
+
+    .encabezadoIndicador{
+        height: 25px;
+    }
+
+    .imgIndicador{
+        height: 40%;
+    }
+
+    .cuerpoIndicadorV{
+        margin-top: 0;
+    }
+
+    .prcAmb {
+        margin-top: 0;
+    }
+
+    .box-title {
+        font-size: 1em !important;
+    }
+
+    .legendtext {
+        font-size: 8px!important;
+    }
+}
+
+@media screen and (height <= 800px) {
+    .numAmb{
+        font-size: 1em;
+        margin-top: 5px;
+        margin-bottom: 0;
+    }
+    
+    .prcAmb{
+        font-size: 1.5em;
+    }
+    
+    .varAmb{
+        font-size: 0.75em;
+    }
+
+    .numSoc {
+        font-size: 1em;
+        line-height: 1;
+    }
+    
+    .prcSoc {
+        font-size: 1.5em;
+        line-height: 1;
+    }
+    
+    .numSoc2 {
+        font-size: 0.9em;
+        line-height: 1;
+    }
+    
+    .prcSoc2 {
+        font-size: 0.9em;
+        line-height: 1;
+    }
+}
+
+@media screen and (width <= 1400px) {
+    #numClubes{
+        height: calc(37vh - 52px)!important;
+    }
+}
+
+@media screen and (width <= 1400px) {
+    .letra {
+        font-size: 1em;
+    }
+
+    .num{
+        font-size: 1.5em;
+    }
+    
+    .prc, .tasa{
+        font-size: 1.25em;
+    }
+    
+    .var{
+        font-size: 1em;
+    }
+
+    .media, .mediaVal{
+        font-size: 1.1em;
+    }
+    .numEco{
+        font-size: 2em;
+    }
+    
+    .prcEco{
+        font-size: 1.75em;
+    }
+    
+    .varEco{
+        font-size: 1.5em;
+    }
+
+    .tituloIndicador {
+        font-size: 1em;
+    }
+
+    .box-title {
+        font-size: 1em !important;
+    }
+
+    .legendtext {
+        font-size: 8px!important;
+    }
+
+    .numAmb{
+        font-size: 1em;
+    }
+    
+    .prcAmb{
+        font-size: 1.5em;
+    }
+    
+    .varAmb{
+        font-size: 0.75em;
+    }
+
+    .numSoc {
+        font-size: 1em;
+    }
+    
+    .prcSoc {
+        font-size: 1.5em;
+    }
+    
+    .numSoc2 {
+        font-size: 0.9em;
+    }
+    
+    .prcSoc2 {
+        font-size: 0.9em;
+    }
+}
+
+.nav-tabs-custom>.nav-tabs>li.active {
+    border-top-color: #6A8D90;
+}
+
+.nav-tabs-custom>.nav-tabs>li>a {
+    font-size: 18px;
+}
+
+#selectEvento {
+    width: 300px!important;
+}
+
+#fooMetodologia .box-body{
+    overflow-y: scroll;
+}
+
+.centro {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.centro2 {
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .air-datepicker-cell.-selected-, .air-datepicker-cell.-selected-.-current- {
+    background-color: #6A8D90;
+}
+
+.form-control:focus, .air-datepicker-cell.-range-from- {
+    border-color: #6A8D90;
+}
+
+.air-datepicker-cell.-current-, .air-datepicker-cell.-current-, .air-datepicker-cell.-current-.-in-range- {
+    color: #6A8D90;
+}
+
+.air-datepicker-cell.-selected-.air-datepicker-cell.-selected-:hover {
+    background-color: #658285;
+}
+
+.air-datepicker-cell.-in-range-:hover {
+    background-color: #6a8d9025;
+}
+
+.air-datepicker-cell.-in-range- {
+    background-color: #6a8d9050;
+}
+
+.air-datepicker-cell.-in-range-:hover, .air-datepicker-cell.-range-to- {
+    border-color: #6a8d9075;
+}
+
+#columna {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.inicio {
+    display: block;
+    margin-left: auto; 
+    margin-right: auto; 
+    overflow: hidden!important;
+    height: 200px
+}
+
+.inicioTitulo {
+    font-size: min(6vh, 5vw);
+    position: absolute;
+    right: 2vw;
+    top: calc(15vh + 60px);
+}
+
+.inicioWrapper {
+    margin-left: -3vw;
+    margin-right: -3vw;
+    height: calc(100vh - 50px);
+    background-image: url("fondo.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.dropdown-menu {
+    z-index: 1001;
+}
